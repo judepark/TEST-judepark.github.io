@@ -1,1 +1,1 @@
-remote_theme: $ jekyll serve -w
+remote_theme: benbalter/retlab
