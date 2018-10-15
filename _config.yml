@@ -1,1 +1,1 @@
-remote_theme: $ git clone https://github.com/kkninjae/book.git
+remote_theme: $ jekyll serve -w
