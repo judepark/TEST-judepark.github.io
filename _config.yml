@@ -1,1 +1,1 @@
-remote_theme: book
+remote_theme: $ git clone https://github.com/kkninjae/book.git
